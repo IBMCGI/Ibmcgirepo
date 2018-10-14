@@ -5,4 +5,3 @@ good u ?
 
 this is kirOoan
 this is 2nd commit
-newly cloned
